@@ -1,16 +1,26 @@
-## Hi there 👋
+##Hola, soy Lourdes Belén👋
 
-<!--
-**Lourdes-Belen/Lourdes-Belen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática
 
-Here are some ideas to get you started:
+💻 Interesada en programación, sistemas y desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente aprendiendo
+- Programación en C
+- Git y GitHub
+- Bases de datos
+- Sistemas operativos
+- Desarrollo de software
+
+## Conocimientos
+- C
+- SQL básico
+- Linux / Sistemas operativos
+- Conceptos de servidores
+- Análisis de sistemas
+
+## Objetivo
+🚀 Seguir construyendo proyectos y desarrollar experiencia profesional en IT.
+
+## Contacto
+- LinkedIn: lourdes-belen-barbagelata
+- Email: barbagelata.lourdes.belen@gmail.com
