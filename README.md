@@ -21,6 +21,9 @@
 ## Objetivo
 🚀 Seguir construyendo proyectos y desarrollar experiencia profesional en IT.
 
+## Proyectos
+- 📌 Próximamente subiré proyectos académicos y personales.
+
 ## Contacto
 - LinkedIn: lourdes-belen-barbagelata
 - Email: barbagelata.lourdes.belen@gmail.com
