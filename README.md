@@ -1,4 +1,4 @@
-##Hola, soy Lourdes Belén👋
+## Hola, soy Lourdes Belén👋
 
 🎓 Estudiante de Ingeniería Informática
 
